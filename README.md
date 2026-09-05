@@ -14,7 +14,7 @@ The workflow takes information provided by the user and uses a Large Language Mo
 
 The general workflow is:
 
-User Input → AI Processing → Study Recommendations
+User Input > AI Processing > Study Recommendations
 
 ## Features
 
